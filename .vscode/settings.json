@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "clang-format.executable": "/Users/long.nguyen/Desktop/Owner/cpp-example/.clang-format",
+    "C_Cpp.errorSquiggles": "disabled"
+}
